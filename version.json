@@ -1,6 +1,6 @@
 {
   "Version": "1.0.0",
-  "InstallerURL": "https://github.com/YOURUSERNAME/smtp-tester-updates/releases/download/v1.0.0/YourApp.zip",
+  "InstallerURL": "https://github.com/clare-code/smtp-tester-updates/releases/download/v1.0.0/YourApp.zip",
   "InstallerHash": "SHA256_HASH_OF_YOUR_FILE",
   "ReleaseNotes": ["Initial release"]
 }
